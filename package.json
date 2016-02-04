@@ -1,6 +1,7 @@
 {
   "name": "node-opml-parser",
   "description": "Parse OPML lists of podcasts",
+  "version": "0.0.0-semantic-release",
   "main": "index.js",
   "scripts": {
     "test": "mocha",

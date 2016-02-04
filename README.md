@@ -1,5 +1,8 @@
 # node-opml-parser
 
+[![build status](https://travis-ci.org/akupila/node-opml-parser.svg?branch=master)](https://travis-ci.org/akupila/node-opml-parser)
+[![Coverage Status](https://coveralls.io/repos/github/akupila/node-opml-parser/badge.svg?branch=master)](https://coveralls.io/github/akupila/node-opml-parser?branch=master)
+
 Parses an OPML feed into flat list of items.
 
 ## Output format

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Overcast Podcast Subscriptions</title>
+  </head>
+  <body>
+    <outline htmlUrl="http://item1.net/" title="Item 1" type="rss" xmlUrl="http://example.com/feed1.xml"/>
+    <outline htmlUrl="http://item1.net/" text="Item 2" type="rss" xmlUrl="http://example.com/feed2.xml"/>
+    <outline htmlUrl="http://item1.net/" description="Item 3" type="rss" xmlUrl="http://example.com/feed3.xml"/>
+  </body>
+</opml>

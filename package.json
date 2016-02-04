@@ -1,0 +1,30 @@
+{
+  "name": "node-opml-parser",
+  "version": "0.0.1",
+  "description": "Parse OPML lists of podcasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "cover": "istanbul cover _mocha",
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+  },
+  "keywords": [
+    "podcast",
+    "opml",
+    "parse",
+    "xml",
+    "list"
+  ],
+  "author": "Antti Kupila <akupila@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "2.11.6",
+    "expect.js": "0.3.1",
+    "istanbul": "0.4.2",
+    "mocha": "2.4.5",
+    "mocha-lcov-reporter": "1.0.0"
+  },
+  "dependencies": {
+    "sax": "1.1.5"
+  }
+}

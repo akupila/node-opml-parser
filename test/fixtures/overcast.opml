@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Overcast Podcast Subscriptions</title>
+  </head>
+  <body>
+    <outline htmlUrl="http://www.se-radio.net/" text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio"/>
+    <outline htmlUrl="http://threedevsandamaybe.com/" text="Three Devs and a Maybe" title="Three Devs and a Maybe" type="rss" xmlUrl="http://threedevsandamaybe.com/podcast.xml"/>
+    <outline htmlUrl="http://codewinds.com/" text="CodeWinds - Leading edge web developer news and training | javascript / React.js / Node.js / HTML5 / web development - Jeff Barczewski" title="CodeWinds - Leading edge web developer news and training | javascript / React.js / Node.js / HTML5 / web development - Jeff Barczewski" type="rss" xmlUrl="http://codewinds.com/podcast-audio-rss.xml"/>
+    <outline htmlUrl="http://gimletmedia.com/" text="StartUp Podcast" title="StartUp Podcast" type="rss" xmlUrl="http://feeds.hearstartup.com/hearstartup"/>
+    <outline htmlUrl="http://www.developertea.com/" text="Developer Tea" title="Developer Tea" type="rss" xmlUrl="http://feeds.feedburner.com/DeveloperTea"/>
+    <outline htmlUrl="http://spec.fm/show/design-details" text="Design Details" title="Design Details" type="rss" xmlUrl="https://simplecast.com/podcasts/1034/rss"/>
+    <outline htmlUrl="http://blog.bruggen.com/" text="Podcast on Graph Databases and Neo4j" title="Podcast on Graph Databases and Neo4j" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:141739624/sounds.rss"/>
+    <outline htmlUrl="http://ttlpodcast.com/" text="TTL Podcast" title="TTL Podcast" type="rss" xmlUrl="http://ttlpodcast.com/feeds/rss.xml"/>
+    <outline htmlUrl="http://nextview.libsyn.com/podcast" text="Traction: How Startups Start | Tech Entrepreneur Origin Stories with Jay Acunzo" title="Traction: How Startups Start | Tech Entrepreneur Origin Stories with Jay Acunzo" type="rss" xmlUrl="http://nextview.libsyn.com/rss"/>
+    <outline htmlUrl="http://developeronfire.com/Podcast" text="Developer On Fire" title="Developer On Fire" type="rss" xmlUrl="http://feeds.feedburner.com/developeronfire"/>
+    <outline htmlUrl="http://spec.fm/" text="Immutable" title="Immutable" type="rss" xmlUrl="https://simplecast.com/podcasts/1332/rss"/>
+    <outline htmlUrl="https://reinvent.awsevents.com/index.html" text="AWS re:Invent 2015" title="AWS re:Invent 2015" type="rss" xmlUrl="https://s3.amazonaws.com/reinvent-podcasts/AWS_reInvent2015_PodcastRSS.xml"/>
+    <outline htmlUrl="http://spec.fm/podcasts/does-not-compute" text="Does Not Compute" title="Does Not Compute" type="rss" xmlUrl="https://simplecast.com/podcasts/1386/rss"/>
+    <outline htmlUrl="https://www.functionalgeekery.com/" text="Functional Geekery" title="Functional Geekery" type="rss" xmlUrl="https://www.functionalgeekery.com/feed/mp3/"/>
+    <outline htmlUrl="http://www.hanselminutes.com/" text="Hanselminutes" title="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1"/>
+    <outline htmlUrl="https://aws.amazon.com/podcasts/aws-podcast/" text="AWS Podcast" title="AWS Podcast" type="rss" xmlUrl="http://d1i0y6b5oi739x.cloudfront.net/feed.xml"/>
+    <outline htmlUrl="http://5by5.tv/changelog" text="The Changelog" title="The Changelog" type="rss" xmlUrl="http://feeds.5by5.tv/changelog"/>
+    <outline htmlUrl="http://www.startupsfortherestofus.com/" text="Startups For the Rest of Us" title="Startups For the Rest of Us" type="rss" xmlUrl="http://feeds.feedburner.com/StartupsForTheRestOfUs"/>
+    <outline htmlUrl="http://productpeople.tv/" text="Product People" title="Product People" type="rss" xmlUrl="http://productpeople.tv/feed/podcast/"/>
+    <outline htmlUrl="http://javascriptjabber.com/" text="JavaScript Jabber" title="JavaScript Jabber" type="rss" xmlUrl="http://feeds.feedwrench.com/JavaScriptJabber.rss"/>
+    <outline htmlUrl="http://thewebplatform.libsyn.com/webpage" text="The Web Platform Podcast" title="The Web Platform Podcast" type="rss" xmlUrl="http://thewebplatform.libsyn.com/rss"/>
+    <outline htmlUrl="http://gimletmedia.com/shows/reply-all" text="Reply All" title="Reply All" type="rss" xmlUrl="http://feeds.gimletmedia.com/hearreplyall"/>
+    <outline htmlUrl="http://pathtoperf.com/" text="The Path to Performance" title="The Path to Performance" type="rss" xmlUrl="https://simplecast.com/podcasts/1103/rss"/>
+    <outline htmlUrl="http://reactpodcast.com/" text="React Podcast" title="React Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/reactjspodcast"/>
+    <outline htmlUrl="https://scaleyourcode.com/" text="Scale Your Code Podcast" title="Scale Your Code Podcast" type="rss" xmlUrl="https://scaleyourcode.com/rss_itunes.xml"/>
+    <outline htmlUrl="http://softwareengineeringdaily.com/" text="Software Engineering Daily" title="Software Engineering Daily" type="rss" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/"/>
+    <outline htmlUrl="https://thepitch.fm/" text="The Pitch" title="The Pitch" type="rss" xmlUrl="http://feeds.podtrac.com/fbNTQNjQz499"/>
+    <outline htmlUrl="http://javascriptair.podbean.com/" text="JavaScript Air" title="JavaScript Air" type="rss" xmlUrl="http://audio.javascriptair.com/feed/"/>
+  </body>
+</opml>

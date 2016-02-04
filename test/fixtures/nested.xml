@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Nested</title>
+  </head>
+  <body>
+    <outline htmlUrl="http://www.se-radio.net/" text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio"/>
+    <outline name="folder1">
+      <outline htmlUrl="http://threedevsandamaybe.com/" text="Three Devs and a Maybe" title="Three Devs and a Maybe" type="rss" xmlUrl="http://threedevsandamaybe.com/podcast.xml"/>
+    </outline>
+    <outline name="folder2">
+      <outline name="folder3">
+        <outline htmlUrl="http://codewinds.com/" text="CodeWinds - Leading edge web developer news and training | javascript / React.js / Node.js / HTML5 / web development - Jeff Barczewski" title="CodeWinds - Leading edge web developer news and training | javascript / React.js / Node.js / HTML5 / web development - Jeff Barczewski" type="rss" xmlUrl="http://codewinds.com/podcast-audio-rss.xml"/>
+      </outline>
+    </outline>
+  </body>
+</opml>

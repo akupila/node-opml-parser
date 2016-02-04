@@ -1,12 +1,12 @@
 {
   "name": "node-opml-parser",
-  "version": "0.0.1",
   "description": "Parse OPML lists of podcasts",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "cover": "istanbul cover _mocha",
-    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "keywords": [
     "podcast",
@@ -25,7 +25,8 @@
     "expect.js": "0.3.1",
     "istanbul": "0.4.2",
     "mocha": "2.4.5",
-    "mocha-lcov-reporter": "1.0.0"
+    "mocha-lcov-reporter": "1.0.0",
+    "semantic-release": "^4.3.5"
   },
   "dependencies": {
     "sax": "1.1.5"

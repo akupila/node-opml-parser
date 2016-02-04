@@ -13,7 +13,10 @@
     "opml",
     "parse",
     "xml",
-    "list"
+    "list",
+    "rss",
+    "feed",
+    "flat"
   ],
   "author": "Antti Kupila <akupila@gmail.com>",
   "license": "ISC",
@@ -26,5 +29,12 @@
   },
   "dependencies": {
     "sax": "1.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akupila/node-opml-parser"
+  },
+  "bugs": {
+    "url": "https://github.com/akupila/node-opml-parser/issues"
   }
 }

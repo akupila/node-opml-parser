@@ -31,7 +31,7 @@ npm install --save node-opml-parser
 ```js
 const parseOpml = require('node-opml-parser');
 
-parsePodcast('<opml xml>', (err, items) => {
+parseOpml('<opml xml>', (err, items) => {
   if (err) {
     console.error(err);
     return;
